@@ -13,5 +13,3 @@ public record ErrorResponse<T>(
         @JsonFormat(shape = JsonFormat.Shape.STRING, pattern = LocalDateFormatPattern.pattern)
         LocalDateTime timestamp
 ) {}
-
-//alaminSimect007
