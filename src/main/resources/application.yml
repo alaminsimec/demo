@@ -1,0 +1,7 @@
+## Application name
+spring:
+  application:
+    name: demo
+
+  profiles:
+    active: pg
