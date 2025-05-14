@@ -11,7 +11,7 @@ import com.alamin.demo.data.model.User;
 import com.alamin.demo.data.repositories.UserRepository;
 import com.alamin.demo.enums.OperationStatus;
 import com.alamin.demo.enums.PredicateMode;
-import com.alamin.demo.exception.handles.ConflictHandlerException;
+import com.alamin.demo.exception.handler.ConflictHandlerException;
 import com.alamin.demo.exception.validators.RequestValidator;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;

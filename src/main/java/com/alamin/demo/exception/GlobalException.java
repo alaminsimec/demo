@@ -2,7 +2,7 @@ package com.alamin.demo.exception;
 
 import com.alamin.demo.core.dto.ErrorResponse;
 import com.alamin.demo.enums.OperationStatus;
-import com.alamin.demo.exception.handles.ConflictHandlerException;
+import com.alamin.demo.exception.handler.ConflictHandlerException;
 import com.alamin.demo.exception.validators.RequestValidatorException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

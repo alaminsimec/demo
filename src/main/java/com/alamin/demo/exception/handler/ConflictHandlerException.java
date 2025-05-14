@@ -1,4 +1,4 @@
-package com.alamin.demo.exception.handles;
+package com.alamin.demo.exception.handler;
 
 import lombok.EqualsAndHashCode;
 
