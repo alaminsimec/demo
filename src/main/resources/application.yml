@@ -5,3 +5,10 @@ spring:
 
   profiles:
     active: pg
+
+
+
+app:
+  title: My %s Boot Application
+  description: This is a sample application.
+
